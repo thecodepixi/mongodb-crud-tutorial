@@ -1,0 +1,12 @@
+{
+  "name": "mongodb-crud",
+  "version": "1.0.0",
+  "description": "'mongodb crud action practice with node'",
+  "main": "index.js",
+  "author": "'Emily Harber'",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "mongodb": "^3.5.8"
+  }
+}
